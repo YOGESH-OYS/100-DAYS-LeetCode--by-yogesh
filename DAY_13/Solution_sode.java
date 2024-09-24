@@ -1,7 +1,5 @@
 package DAY_13;
 
-public class Solution_sode {
-}
 class Solution {
     public int maxSubArray(int[] a) {
         int sum = a[0];
